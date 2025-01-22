@@ -1,0 +1,4 @@
+repository "first-plasticSCM@local"
+  path "/"
+    br "/main"
+    co "/main"
